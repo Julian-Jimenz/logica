@@ -14,6 +14,6 @@ function Censurado(texto , palabra){
  console.log(arreglofinal);
 } 
 
-Censurado("julian jimenez julian toro", "jlian");
+Censurado("julian jimenez julian toro", "julian");
 
 
